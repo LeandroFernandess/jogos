@@ -38,3 +38,7 @@ Este projeto tem como objetivo criar uma página web simples que liste os jogos 
 
 * **Arquivo `dados.js`:** Este arquivo deve conter um array de objetos, onde cada objeto representa um jogo com as seguintes propriedades: nome, plataforma e ano de lançamento.
 * **Arquivo `app.js`:** Este arquivo contém a lógica da aplicação, como a função `pesquisar()` que filtra os jogos com base na entrada do usuário.
+
+** Link para acessar a aplicação:**
+
+* **https://jogos-omega.vercel.app/
